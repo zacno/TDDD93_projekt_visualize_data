@@ -1,0 +1,181 @@
+
+
+Tue May  2 22:01:22 CEST 2017
+traceroute to www.svt.se (23.61.218.61), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 NA 16625 
+
+Tue May  2 22:01:38 CEST 2017
+traceroute to www.svt.se (23.61.218.61), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 NA 16625 
+
+Tue May  2 22:01:56 CEST 2017
+traceroute to www.svt.se (23.61.218.61), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 NA 16625 
+
+Tue May  2 22:02:01 CEST 2017
+traceroute to www.bet365.se (5.226.178.10), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 3356 3356 2914 2914 
+
+Tue May  2 22:02:33 CEST 2017
+traceroute to www.bet365.se (5.226.178.10), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 3356 2914-3356-2914- 2914 1273-2914- 
+
+Tue May  2 22:02:59 CEST 2017
+traceroute to www.bet365.se (5.226.178.10), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 3356 3356 3356-2914- 2914 2914 
+
+Tue May  2 22:03:42 CEST 2017
+traceroute to www.blocket.se (185.49.132.3), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 8473 
+
+Tue May  2 22:04:22 CEST 2017
+traceroute to www.blocket.se (185.49.132.3), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 8473 
+
+Tue May  2 22:04:52 CEST 2017
+traceroute to www.blocket.se (185.49.132.3), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 8473 
+
+Tue May  2 22:05:32 CEST 2017
+traceroute to www.regeringen.se (79.136.61.26), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 
+
+Tue May  2 22:05:44 CEST 2017
+traceroute to www.regeringen.se (79.136.61.26), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 
+
+Tue May  2 22:05:46 CEST 2017
+traceroute to www.regeringen.se (79.136.61.26), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 
+
+Tue May  2 22:05:56 CEST 2017
+traceroute to www.avanza.se (217.15.243.11), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 8473 25545 
+
+Tue May  2 22:06:05 CEST 2017
+traceroute to www.avanza.se (217.15.243.11), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 8473 25545 
+
+Tue May  2 22:06:06 CEST 2017
+traceroute to www.avanza.se (217.15.243.11), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 8473 25545 
+
+Tue May  2 22:07:05 CEST 2017
+traceroute to www.facebook.com (31.13.72.36), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 NA 32934 32934 32934 
+
+Tue May  2 22:07:10 CEST 2017
+traceroute to www.facebook.com (31.13.72.36), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 NA 32934 32934 32934 
+
+Tue May  2 22:07:21 CEST 2017
+traceroute to www.facebook.com (31.13.72.36), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 NA 32934 32934 32934 
+
+Tue May  2 22:07:36 CEST 2017
+traceroute to www.wikipedia.org (91.198.174.192), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 8473 8473 8473 
+
+Tue May  2 22:08:13 CEST 2017
+traceroute to www.wikipedia.org (91.198.174.192), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 8473 8473 8473 
+
+Tue May  2 22:08:45 CEST 2017
+traceroute to www.wikipedia.org (91.198.174.192), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 8473 8473 8473 
+
+Tue May  2 22:09:21 CEST 2017
+traceroute to www.google.com (37.123.187.247), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 8473 8473 8473 
+
+Tue May  2 22:09:54 CEST 2017
+traceroute to www.google.com (37.123.187.247), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 8473 8473 8473 
+
+Tue May  2 22:10:23 CEST 2017
+traceroute to www.google.com (37.123.187.247), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 8473 8473 8473 
+
+Tue May  2 22:11:03 CEST 2017
+traceroute to www.netflix.se (52.49.120.6), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 8473 8473 8473 1200 NA NA NA NA NA NA NA 16509 
+
+Tue May  2 22:11:24 CEST 2017
+traceroute to www.netflix.se (52.49.120.6), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 8473 8473 8473 1200 NA NA NA NA NA NA NA 16509 
+
+Tue May  2 22:11:42 CEST 2017
+traceroute to www.netflix.se (54.154.43.103), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 8473 8473 8473 1200 NA NA NA NA NA NA NA NA 
+
+Tue May  2 22:12:07 CEST 2017
+traceroute to www.paypal.se (23.54.2.63), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 NA 16625 
+
+Tue May  2 22:12:21 CEST 2017
+traceroute to www.paypal.se (23.54.2.63), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 NA 16625 
+
+Tue May  2 22:12:22 CEST 2017
+traceroute to www.paypal.se (23.54.2.63), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 NA 16625 
+
+Tue May  2 22:12:59 CEST 2017
+traceroute to www.vk.com (87.240.165.82), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 
+
+Tue May  2 22:13:41 CEST 2017
+traceroute to www.vk.com (95.213.11.180), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 
+
+Tue May  2 22:14:10 CEST 2017
+traceroute to www.vk.com (87.240.165.82), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 
+
+Tue May  2 22:14:44 CEST 2017
+traceroute to www.avito.ru (185.89.12.132), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 NA 9002 
+
+Tue May  2 22:15:27 CEST 2017
+traceroute to www.avito.ru (185.89.12.132), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 NA 9002 
+
+Tue May  2 22:15:56 CEST 2017
+traceroute to www.avito.ru (185.89.12.132), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 NA 9002 
+
+Tue May  2 22:16:31 CEST 2017
+traceroute to www.wikileaks.org (95.211.113.154), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 NA 16265 16265 NA 
+
+Tue May  2 22:17:07 CEST 2017
+traceroute to www.wikileaks.org (95.211.113.154), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 NA 16265 16265 NA 
+
+Tue May  2 22:17:35 CEST 2017
+traceroute to www.wikileaks.org (95.211.113.154), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 NA 16265 16265 NA 
+
+Tue May  2 22:18:12 CEST 2017
+traceroute to www.whitehouse.gov (23.61.240.110), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 NA 16625 
+
+Tue May  2 22:18:18 CEST 2017
+traceroute to www.whitehouse.gov (23.61.240.110), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 NA 16625 
+
+Tue May  2 22:18:29 CEST 2017
+traceroute to www.whitehouse.gov (23.61.240.110), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 8473 NA 16625 
+
+Tue May  2 22:18:35 CEST 2017
+traceroute to www.baidu.com (103.235.46.39), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 3356 2914 2914 2914 2914 2914 2914 
+
+Tue May  2 22:19:06 CEST 2017
+traceroute to www.baidu.com (103.235.46.39), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 3356 2914 2914 2914 2914 2914 2914 
+
+Tue May  2 22:19:28 CEST 2017
+traceroute to www.baidu.com (103.235.46.39), 30 hops max, 60 byte packets
+HOME 8473 8473 8473 3356 3356 3356 2914 2914 2914 2914 2914 2914 
